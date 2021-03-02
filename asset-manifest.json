@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/smilebots-second-round/static/css/main.410417f9.chunk.css",
+    "main.js": "/smilebots-second-round/static/js/main.7fa36e55.chunk.js",
+    "main.js.map": "/smilebots-second-round/static/js/main.7fa36e55.chunk.js.map",
+    "runtime-main.js": "/smilebots-second-round/static/js/runtime-main.39ae7fff.js",
+    "runtime-main.js.map": "/smilebots-second-round/static/js/runtime-main.39ae7fff.js.map",
+    "static/js/2.c415d6fe.chunk.js": "/smilebots-second-round/static/js/2.c415d6fe.chunk.js",
+    "static/js/2.c415d6fe.chunk.js.map": "/smilebots-second-round/static/js/2.c415d6fe.chunk.js.map",
+    "index.html": "/smilebots-second-round/index.html",
+    "static/css/main.410417f9.chunk.css.map": "/smilebots-second-round/static/css/main.410417f9.chunk.css.map",
+    "static/js/2.c415d6fe.chunk.js.LICENSE.txt": "/smilebots-second-round/static/js/2.c415d6fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39ae7fff.js",
+    "static/js/2.c415d6fe.chunk.js",
+    "static/css/main.410417f9.chunk.css",
+    "static/js/main.7fa36e55.chunk.js"
+  ]
+}
